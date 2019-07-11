@@ -12,7 +12,7 @@ const list = [
   {
     title: "Redux",
     url: "https://redux.js.org/",
-    author: "Dan Abramov, Andrew Clark",
+    author: "XRRXRXRXRXRXRX, Andrew Clark",
     num_comments: 2,
     points: 5,
     objectID: 1
