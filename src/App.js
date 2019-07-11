@@ -4,7 +4,7 @@ const list = [
   {
     title: "React",
     url: "https://reactjs.org/",
-    author: "Jordan Walke",
+    author: "RJRJRJRJRJRJ",
     num_comments: 3,
     points: 4,
     objectID: 0
